@@ -1,0 +1,10 @@
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe.config
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.pdb
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.AssemblyReference.cache
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Form1.resources
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Properties.Resources.resources
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.GenerateResource.cache
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.CoreCompileInputs.cache
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.exe
+C:\Users\nooki\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.pdb
